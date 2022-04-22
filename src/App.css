@@ -1,0 +1,90 @@
+.App {
+  text-align: center;
+}
+
+.hello {
+    font-size: 4em;
+}
+
+.name {
+    font-size: 5em;
+}
+
+.hero {
+    background-color: #262626;
+}
+
+.text {
+    color: #fff;
+}
+
+.paragraph-heading {
+    font-size: 3em;
+    text-align: center;
+    /* padding-left: 10%; */
+}
+
+.paragraph {
+    font-size: 1.25em;
+    text-align: center;
+    /* padding-left: 10%; */
+    /* padding-right: 10%; */
+}
+
+.card {
+    background-color: #1a1a1a;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    width: '200px';
+    height: '100%';
+    min-height: 100px;
+    padding: 10px;
+    margin: 0px;
+}
+
+.link {
+    font-size: 1.5em;
+    text-align: center;
+    color: #2596be;
+    text-decoration: none;
+}
+
+.link :visited {
+    color: #063970;
+}
+
+.link :hover {
+    color: #154c79;
+}
+
+.cards {
+    padding-left: 10%;
+    margin: 0%;
+}
+
+.topcard {
+    max-height: fit-content;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.usercard {
+    margin: 0 auto;
+}
+
+.icon {
+    margin: 5px;
+}
+
+.centereddiv {
+    margin: 0 auto;
+    justify-content: center;
+    text-align: center;
+}
+
+.bottompadding {
+    padding-bottom: 50px;
+}
